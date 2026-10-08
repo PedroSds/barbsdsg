@@ -1,0 +1,6 @@
+Fontes solicitadas para a versão final:
+- Bootzy TM: títulos de impacto
+- zai Calligraphy Script Handwritten: destaques caligráficos
+- Nexa: textos e interface
+
+Os arquivos de fonte não estavam nesta pasta em 03/10/2026. Adicione aqui somente arquivos com licença de uso para website, preferencialmente .woff2. O mockup usa fontes substitutas até lá.
